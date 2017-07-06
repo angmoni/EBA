@@ -1,0 +1,26 @@
+.a{
+	background:url(fondo.png);
+}
+.b{
+	color:white;
+	font-size:30px;
+}
+.p{
+	color:black;
+	font-size: 100px;
+	font-family: arial black;
+}
+.c{
+	color: orange;
+	font-family: arial black;
+
+}
+
+.o{
+	color: black;
+	background-color:pink;
+	width: 100px;
+	height: 60px;
+	border-radius: 7px;
+	text-align: center;
+}
